@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Spring Boot
 
-- 📫 How to reach me ... you can ping me anytime : 
+- 📫 How to reach me ... you can ping me anytime follow the account 
 
 <!---
 Anilajay12/Anilajay12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
